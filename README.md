@@ -1,70 +1,65 @@
-<div align="center">
-  <h1>Hi there, I'm Bima Ardiansyah! 👋</h1>
-  <h3>Full-Stack Web Developer | Transforming ideas into robust web applications</h3>
-  <img src="https://komarev.com/ghpvc/?username=bimbimm25&label=Profile%20Views&color=0e75b6&style=flat" alt="Bima's Profile Views" />
-</div>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Bima Ardiansyah
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=false&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Passionate+about+UI%2FUX+%26+Backend)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/bimaardiansyah2509@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bimaardiansyah2509@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/bimm.zhr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bimm.zhr)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@justbimm12)
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-I'm a passionate **Full-Stack Web Developer** who loves building clean, functional, and user-centric web applications. I enjoy bridging the gap between visually appealing user interfaces and robust backend logic.
+> **Crafting digital experiences through elegant code and robust architecture.**
 
-- 🔭 I’m currently focused on developing scalable applications using **Laravel** & **TailwindCSS**.
-- 🌱 I’m always eager to learn and explore new technologies to improve my craft.
-- ⚡ Fun fact: I love finding creative solutions to complex problems!
-- 📫 Reach me out via: **[bimaardiansyah2509@gmail.com](mailto:bimaardiansyah2509@gmail.com)**
+I am a dedicated **Full-Stack Web Developer** who bridges the gap between sophisticated backend logic and pixel-perfect frontend interfaces. I specialize in building scalable, secure, and intuitive web applications tailored to solve real-world problems. 
 
-## 🛠️ Tech Stack & Tools
-
-### Frontend
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+- 🚀 **Currently crafting:** High-performance web apps using **Next.js**, **Laravel**, and **Supabase**.
+- 💡 **My approach:** Clean code, modern design patterns, and continuous learning.
+- 🤝 **Looking for:** Exciting opportunities, open-source collaborations, and complex problem-solving.
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Technical Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimbimm25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimbimm25&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
+Saya menggunakan teknologi modern untuk membangun ekosistem aplikasi web dari depan hingga belakang:
 
-<br>
+**Frontend Development**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Tech Stack" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimbimm25&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=bimbimm25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Top Contributions" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimbimm25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+**Backend & Database**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,supabase&theme=dark" alt="Backend Tech Stack" />
+</a>
 
 ---
 
-## 🌐 Connect with Me
+### 📈 GitHub Analytics & Activity
 
-<div align="center">
-  <a href="https://facebook.com/bimm.zhr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/bimm.zhr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@justbimm12"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:bimaardiansyah2509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bimbimm25&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&title_color=38B2AC&icon_color=38B2AC" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimbimm25&layout=compact&theme=dracula&hide_border=true&title_color=38B2AC" height="190" alt="Top Languages" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimbimm25&theme=dracula&hide_border=true&fire=38B2AC&ring=38B2AC" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bimbimm25&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bimbimm25">
+    <img src="https://komarev.com/ghpvc/?username=bimbimm25&label=Profile%20Views&color=38B2AC&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
