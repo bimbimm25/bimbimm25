@@ -4,8 +4,8 @@
 
 [![Email](https://img.shields.io/badge/bimaardiansyah2509@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bimaardiansyah2509@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/bimm.zhr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bimm.zhr)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@justbimm12)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bimm.syhh)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@aekonezt)
 
 ---
 
